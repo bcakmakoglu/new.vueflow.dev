@@ -7,7 +7,7 @@
     },
     {
       "source": "/js(.*)",
-      "destination": "https://codesandbox.io/p/devbox/angry-gates-f45724",
+      "destination": "https://codesandbox.io/p/devbox/nifty-tu-35mftw",
       "permanent": true
     },
     {
