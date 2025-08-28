@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/ts(.*)",
-      "destination": "https://codesandbox.io/p/devbox/nifty-tu-35mftw",
+      "destination": "https://codesandbox.io/p/devbox/objective-feather-c3z8x9",
       "permanent": true
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "source": "/(.*)",
-      "destination": "https://vueflow.dev",
+      "destination": "https://codesandbox.io/p/devbox/objective-feather-c3z8x9",
       "permanent": true
     }
   ]
